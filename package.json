@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "mt-enterprise-rbac",
   "private": true,
   "scripts": {
     "build": "turbo run build",
